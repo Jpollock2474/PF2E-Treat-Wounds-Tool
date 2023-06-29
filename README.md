@@ -3,7 +3,7 @@ A simple and easy-to-use tool for calculating Treat Wounds rolls between encount
 
 -------------------------------------------------------------------------------------
 
-Visit the Releases page to download the Beta version:
+Visit the Releases page to download the Beta version and view screenshots:
 
 https://github.com/Jpollock2474/PF2E-Treat-Wounds-Tool/releases
 
