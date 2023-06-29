@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TreatWoundsTool.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="difficulty" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="wardMedic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="riskySurgery" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="partyCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="medicineBonus" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+    <Setting Name="permittableWounds" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="pauseInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="p1name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Player 1</Value>
+    </Setting>
+    <Setting Name="p2name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Player 2</Value>
+    </Setting>
+    <Setting Name="p3name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Player 3</Value>
+    </Setting>
+    <Setting Name="p4name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Player 4</Value>
+    </Setting>
+    <Setting Name="p5name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Player 5</Value>
+    </Setting>
+    <Setting Name="p6name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Player 6</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
